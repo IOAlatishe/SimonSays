@@ -1,0 +1,40 @@
+
+.green {
+  position:absolute;
+  left:10px ;
+  top:150px;
+  width:10px;
+  height:5px;
+  padding: 50px;
+  background-color:green;
+}
+
+.blue {
+  position:absolute;
+  left:100px ;
+  top:150px;
+  width:1px;
+  height:5px;
+  padding: 50px;
+  background-color:blue;
+}
+
+.yellow {
+  position:absolute;
+  left:200px ;
+  top:150px;
+  width:1px;
+  height:5px;
+  padding: 50px;
+  background-color:yellow;
+}
+
+.red {
+  position:absolute;
+  left:300px ;
+  top:150px;
+  width:1px;
+  height:5px;
+  padding: 50px;
+  background-color:red;
+}
